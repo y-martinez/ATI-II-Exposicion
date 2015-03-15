@@ -1,3 +1,11 @@
+Aplicacion TO-DO List realizada con el framework CakePHP para la materia Aplicaciones con la Tecnología Internet II
+Desarrolladores:
+*Fernando Morales
+*Josue Becerra
+*Ybrahin Martinez
+
+Link del DEMO http://104.131.175.13/todo-list/
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
